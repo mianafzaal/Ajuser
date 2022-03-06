@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
+  <a href="https://github.com/mianafzaal/Ajuser_v2 ">
     <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
